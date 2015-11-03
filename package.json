@@ -1,14 +1,30 @@
 {
   "name": "fruits",
-  "version": "0.0.1",
-  "description": "",
+  "version": "0.0.5",
+  "description": "A Node ORM you may need!",
   "main": "fruits.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodefruit/fruits.git"
+  },
   "author": "Khalid REHIOUI <Array.prototype@gmail.com> (http://github.com/javascipt)",
   "license": "MIT",
+  "keywords": [
+    "fruit",
+    "orm",
+    "mysql",
+    "sql",
+    "mongodb",
+    "mongo",
+    "postgres",
+    "postgresql",
+    "db",
+    "database"
+  ],
   "dependencies": {
-    "fruit": "^0.0.1",
-    "fruit-mongodb": "^0.0.1",
-    "fruit-mysql": "^0.0.1",
-    "fruit-postgresql": "^0.0.1"
+    "fruit": "^1.0.3",
+    "fruit-mongodb": "^0.0.2",
+    "fruit-mysql": "^0.0.2",
+    "fruit-postgresql": "^0.0.2"
   }
 }

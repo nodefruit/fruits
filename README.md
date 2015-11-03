@@ -8,7 +8,7 @@
 
 ### Introduction:
 
-This is the global package that contains both the fruit ORM module and all its available adapters. If you haven't take a look at its documentation yet, please make sure to do so.
+This is the global package that contains both the [fruit](http://npmjs.com/package/fruit) ORM module and all its available adapters. If you haven't take a look at its documentation yet, please make sure to do so.
 
 ### Installation:
 ```bash
