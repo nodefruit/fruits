@@ -1,6 +1,6 @@
 {
   "name": "fruits",
-  "version": "0.0.5",
+  "version": "0.0.7",
   "description": "A Node ORM you may need!",
   "main": "fruits.js",
   "repository": {
@@ -22,9 +22,9 @@
     "database"
   ],
   "dependencies": {
-    "fruit": "^1.0.3",
-    "fruit-mongodb": "^0.0.2",
-    "fruit-mysql": "^0.0.2",
-    "fruit-postgresql": "^0.0.2"
+    "fruit": "^1.0.4",
+    "fruit-mongodb": "0.0.3",
+    "fruit-mysql": "0.0.3",
+    "fruit-postgresql": "0.0.3"
   }
 }

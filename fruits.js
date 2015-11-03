@@ -1,7 +1,7 @@
 /* بسم الله الرحمن الرحيم */
 
 module.exports  = {
-    fruit       : requie('fruit')
+    fruit       : require('fruit')
   , adapters    : {
       mongodb   : require('fruit-mongodb')
     , mysql     : require('fruit-mysql')
