@@ -18,7 +18,7 @@ This is the global package that contains both the fruit ORM module and all its a
 ### How does it work:
 
 Once you require the fruits module :
-```
+```javascript
   var fruits = require('fruits');
 ```
 
