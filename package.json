@@ -25,6 +25,6 @@
     "fruit": "^1.0.4",
     "fruit-mongodb": "0.0.3",
     "fruit-mysql": "0.0.3",
-    "fruit-postgresql": "0.0.3"
+    "fruit-postgresql": "0.0.4"
   }
 }
