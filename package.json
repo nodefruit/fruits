@@ -1,7 +1,7 @@
 {
   "name": "fruits",
-  "version": "0.0.10",
-  "description": "A Node ORM you may need!",
+  "version": "0.0.11",
+  "description": "A Node.JS ORM for both SQL and NoSQL databases",
   "main": "fruits.js",
   "repository": {
     "type": "git",
@@ -22,9 +22,9 @@
     "database"
   ],
   "dependencies": {
-    "fruit": "^1.0.6",
-    "fruit-mongodb": "0.0.3",
-    "fruit-mysql": "0.0.3",
-    "fruit-postgresql": "0.0.4"
+    "fruit": "^1.0.7",
+    "fruit-mongodb": "0.0.4",
+    "fruit-mysql": "0.0.4",
+    "fruit-postgresql": "0.0.6"
   }
 }
